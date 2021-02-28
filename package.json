@@ -2,7 +2,7 @@
   "name": "robot",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LEO0331.github.io/RobotFriends",
+  "homepage": "https://LEO0331.github.io/Robofriends-redux",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
